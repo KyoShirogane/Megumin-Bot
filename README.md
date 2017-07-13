@@ -1,2 +1,2 @@
-# Eriri-Bot-Music
+# Megumin-Bot
 Music Bot Source Code
