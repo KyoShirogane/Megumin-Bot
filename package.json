@@ -1,0 +1,12 @@
+{
+  "name": "Megumin Bot",
+  "description": "Megumin Multipurpose Bot",
+  "version": "0.0.0",
+  "main": "megumin.js",
+  "scripts": {
+    "start": "node megumin.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0"
+  }
+}
